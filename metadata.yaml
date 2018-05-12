@@ -1,0 +1,29 @@
+_repo: Die-Gewerkschaftsbewegungund-der-Arbeitgeber-aller-L-nder._46259
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46259-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kulemann, Wilhelm
+    alias: Kulemann, W. (Wilhelm)
+    birthdate: 1851
+    deathdate: 1926
+    gutenberg_agent_id: '43682'
+    url: http://www.gutenberg.org/2009/agents/43682
+description: ''
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46259'
+  lccn: 01018624
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Labor unions'
+title: "Die Gewerkschaftsbewegung\r\nDarstellung der gewerkschaftlichen Organisation\
+  \ der Arbeiter und der Arbeitgeber aller Länder."
+url: http://www.gutenberg.org/ebooks/46259
